@@ -1,0 +1,11 @@
+mkdir - Cria um diretório
+rmdir - Deleta um diretório
+cd - Locomove até o diretório
+ls/dir - Cria uma lista dos diretórios no caminho selecionado
+del - Deleta os arquivos dentro de um repositório
+echo - reproduz o que for escrito (output)
+echo > - pega o output e joga dentro de um arquivo
+git init - Inicializa o Git no diretório 
+git add - adiciona o pedido ao staged (pronto para comittar)
+git commit -m  - arquivo comitado com uma mensagem
+git push origin main - jogar o diretório para o servidor remoto

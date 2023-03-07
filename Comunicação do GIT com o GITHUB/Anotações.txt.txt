@@ -1,0 +1,3 @@
+o Git é um software, enquanto o github um sistema. A sua parceria é fundamental, onde o 
+git faz o controle de códigos enquanto o Github serve para pegar esses códigos e criar um ambiente
+de colaboração entre os desenvolvedores. 

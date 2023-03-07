@@ -1,0 +1,6 @@
+o Git faz a locomoção dos diretórios por etapas:
+1 - repositório " exemplo " criado  -> (sem rastreio ou untracked)
+2 - git add " exemplo " -> rastreado e pronto para commit (staged)
+3 - git commit -m  -> movido do staged para commit com uma mensagem -m
+4 - git remote add origin - irá subir o link do seu projeto do github no git
+5 - git push origin master  -> empurrar o diretório master para o servidor remoto. 
